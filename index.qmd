@@ -1,0 +1,23 @@
+---
+title: "Feminism Times"
+listing:
+  contents: posts
+  max-items: 10
+  grid-columns: 3
+  grid-item-align: center
+  grid-item-border: true
+  sort: 
+      - "date desc"
+      - "title desc"
+  type: grid
+  max-description-length: 250
+  image-align: left
+  date-format: long
+  categories: cloud
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+
