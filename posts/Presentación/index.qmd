@@ -15,8 +15,8 @@ image: cry_guys.jpg
 +------------------------------------------+--------------------------+-----------------------------------------------+
 |                                          | Autor                    | Contacto                                      |
 +:========================================:+:=========================+===============================================+
-| <center>                                 | **Christian Badillo**    | [Contacto](mailto:cris.badillo1408@gmail.com) |
-|                                          |                          |                                               |
+| <center>                                 | **Christian Badillo**    |                                               |
+|                                          |                          | [Contacto](mailto:cris.badillo1408@gmail.com) |
 | ![](cris.jpeg){width="260" height="250"} | Hola soy Christian,      |                                               |
 |                                          | estudiante de último     |                                               |
 |                                          | año de psicología        |                                               |
@@ -32,9 +32,9 @@ image: cry_guys.jpg
 |                                          | ciencias cognitivas y    |                                               |
 |                                          | del comportamiento.      |                                               |
 +:========================================:+:=========================+===============================================+
-|                                          | **America Vazquez**      |                                               |
-|                                          |                          |                                               |
-|                                          | Me llamo America,        |                                               |
+| <center>                                 | **America Vazquez**      |                                               |
+|                                          |                          | [Contacto](mailto:americav309@gmail.com)      |
+| ![](Ame.jpeg){width="260" height="250"}  | Me llamo America,        |                                               |
 |                                          | estoy en mi último       |                                               |
 |                                          | semestre de              |                                               |
 |                                          | psicología y como        |                                               |
@@ -43,9 +43,9 @@ image: cry_guys.jpg
 |                                          | social y una pizca       |                                               |
 |                                          | de clínica.              |                                               |
 +:========================================:+:=========================+===============================================+
-|                                          | **Ana Martínez**         |                                               |
-|                                          |                          |                                               |
-|                                          | Soy Ana Laura,           |                                               |
+| <center>                                 | **Ana Martínez**         |                                               |
+|                                          |                          | [Contacto](mailto:annalauramrtz@gmail.com)    |
+| ![](Ana.jpeg){width="260" height="250"}  | Soy Ana Laura,           |                                               |
 |                                          | estudiante de            |                                               |
 |                                          | Psicología de            |                                               |
 |                                          | octavo semestre,         |                                               |

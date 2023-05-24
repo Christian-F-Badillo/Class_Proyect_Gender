@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Acerca",
     "section": "",
-    "text": "About this blog"
+    "text": "Este blog esta especialmente diseñado para dar a conocer temas y prespectivas acerca del feminismo y temas de género y fue desarollado para la materia de Género, Feminismo, Violencia y Derechos Humanos 2023-2. Todo el código de la página web esta alojado en Github, un servicio para desarrollar software open acces y usando el servicio de Quarto, un software diseñado para facilitar la programación de sitios web, blogs y presentaciones de forma más accesible."
   },
   {
     "objectID": "index.html",
@@ -18,6 +18,76 @@
     "href": "posts/Presentación/index.html",
     "title": "Conocenos",
     "section": "",
-    "text": "Conoce más acerca de los autores del blog. Igulamente podras encontrar información de como contactarnos para mejoras :D\n\n\n\n\n\n\n\nAutor\nContacto\n\n\n\n\n\n\nChristian Badillo\nHola soy Christian, estudiante de último año de psicología y mis hobbits son la programación, aprender cosas nuevas, me gusta escuchar música mientras juego videojuegos. Mi área de interés y desarrollo es neurociencias, ciencias cognitivas y del comportamiento.\nContacto\n\n\n\nAmerica Vazquez\nMe llamo America, estoy en mi último semestre de psicología y como hobbie tengo la danza. Mi área es social y una pizca de clínica.\n\n\n\n\nAna Martínez\nSoy Ana Laura, estudiante de Psicología de octavo semestre, mi pasión son los procesos cognitivos y las funciones ejecutivas. Mi área es Psicobiología y Neurociencias."
+    "text": "Conoce más acerca de los autores del blog. Igulamente podras encontrar información de como contactarnos para mejoras :D\n\n\n\n\n\n\n\nAutor\nContacto\n\n\n\n\n\n\nChristian Badillo\nHola soy Christian, estudiante de último año de psicología y mis hobbits son la programación, aprender cosas nuevas, me gusta escuchar música mientras juego videojuegos. Mi área de interés y desarrollo es neurociencias, ciencias cognitivas y del comportamiento.\nContacto\n\n\n\n\nAmerica Vazquez\nMe llamo America, estoy en mi último semestre de psicología y como hobbie tengo la danza. Mi área es social y una pizca de clínica.\nContacto\n\n\n\n\nAna Martínez\nSoy Ana Laura, estudiante de Psicología de octavo semestre, mi pasión son los procesos cognitivos y las funciones ejecutivas. Mi área es Psicobiología y Neurociencias.\nContacto"
+  },
+  {
+    "objectID": "posts/Tres Mundos, Una Lucha/index.html",
+    "href": "posts/Tres Mundos, Una Lucha/index.html",
+    "title": "Tres Mundos, Una Lucha",
+    "section": "",
+    "text": "El feminismo y la teoría de género es un tema que ha traido consigo distintas opiniones y respuestas, por ello hemos creado esta estrada para dar a entender como se vive esta realidad desde tres puntos de vista distintos y con diferente experiencia y acercamiento acerca del feminismo y la teoría de género."
+  },
+  {
+    "objectID": "posts/Tres Mundos, Una Lucha/index.html#consideras-que-la-violencia-de-género-es-un-problema-grave-en-nuestra-sociedad",
+    "href": "posts/Tres Mundos, Una Lucha/index.html#consideras-que-la-violencia-de-género-es-un-problema-grave-en-nuestra-sociedad",
+    "title": "Tres Mundos, Una Lucha",
+    "section": "¿Consideras que la violencia de género es un problema grave en nuestra sociedad?",
+    "text": "¿Consideras que la violencia de género es un problema grave en nuestra sociedad?\n\nAna 🌚\nPor supuesto, a pesar de que actualmente existe mucha visualización respecto a los sucesos, sigue siendo un tema mirado desde ojos que estigmatizan.\n\n\nChristian 👨‍💻\n\n\nAmerica 🐱\nSin duda alguna, ya que es algo que aunque sea más hablado se sigue normalizando por lo cual estás conductas terminan aumentando e incluso se implementan con más intensidad."
+  },
+  {
+    "objectID": "posts/Tres Mundos, Una Lucha/index.html#cuáles-crees-que-son-las-formas-más-comunes-de-violencia-de-género",
+    "href": "posts/Tres Mundos, Una Lucha/index.html#cuáles-crees-que-son-las-formas-más-comunes-de-violencia-de-género",
+    "title": "Tres Mundos, Una Lucha",
+    "section": "¿Cuáles crees que son las formas más comunes de violencia de género?",
+    "text": "¿Cuáles crees que son las formas más comunes de violencia de género?\n\nAna 🌚\n\nVerbalmente\nPsicológicamente\nFísicamente\n\n\n\nChristian 👨‍💻\n\n\nAmerica 🐱\n\nEmocional\nFísica\nSexual\nDoméstica"
+  },
+  {
+    "objectID": "posts/Tres Mundos, Una Lucha/index.html#crees-que-hombres-y-mujeres-deberían-tener-los-mismos-derechos-y-oportunidades",
+    "href": "posts/Tres Mundos, Una Lucha/index.html#crees-que-hombres-y-mujeres-deberían-tener-los-mismos-derechos-y-oportunidades",
+    "title": "Tres Mundos, Una Lucha",
+    "section": "¿Crees que hombres y mujeres deberían tener los mismos derechos y oportunidades?",
+    "text": "¿Crees que hombres y mujeres deberían tener los mismos derechos y oportunidades?\n\nAna 🌚\nPor supuesto, si bien no somos iguales, podemos tener los mismos derechos así como oportunidades. Lo comparo como toda persona, así como todos somos humanos, a pesar de que cada uno tenga una esencia, no deja de convertirlo en una persona.\n\n\nChristian 👨‍💻\n\n\nAmerica 🐱\nSi ya que creo que no importa tu género e incluso cómo se identifican pues creo que se estaría entrando en esta parte de “deshumanizar” pues los derechos y oportunidades son algo que podemos compartir perfectamente"
+  },
+  {
+    "objectID": "posts/Tres Mundos, Una Lucha/index.html#cuáles-son-en-tu-opinión-las-áreas-en-las-que-se-necesita-más-trabajo-para-lograr-la-igualdad-de-género",
+    "href": "posts/Tres Mundos, Una Lucha/index.html#cuáles-son-en-tu-opinión-las-áreas-en-las-que-se-necesita-más-trabajo-para-lograr-la-igualdad-de-género",
+    "title": "Tres Mundos, Una Lucha",
+    "section": "¿Cuáles son, en tu opinión, las áreas en las que se necesita más trabajo para lograr la igualdad de género?",
+    "text": "¿Cuáles son, en tu opinión, las áreas en las que se necesita más trabajo para lograr la igualdad de género?\n\nAna 🌚\n\nEducación\nReestructuración de pensamiento\nCrianza\nPensamiento flexible\nDesestigmatización\n\n\n\nChristian 👨‍💻\n\n\nAmerica 🐱\n\nInfancias\nNiveles educativos básicos\nHogares"
+  },
+  {
+    "objectID": "posts/Tres Mundos, Una Lucha/index.html#crees-que-es-importante-tener-una-representación-equitativa-de-mujeres-en-los-cargos-políticos-y-de-liderazgo",
+    "href": "posts/Tres Mundos, Una Lucha/index.html#crees-que-es-importante-tener-una-representación-equitativa-de-mujeres-en-los-cargos-políticos-y-de-liderazgo",
+    "title": "Tres Mundos, Una Lucha",
+    "section": "¿Crees que es importante tener una representación equitativa de mujeres en los cargos políticos y de liderazgo?",
+    "text": "¿Crees que es importante tener una representación equitativa de mujeres en los cargos políticos y de liderazgo?\n\nAna 🌚\nPor supuesto para tener opiniones desde perspectivas diversas y no solamente de una mujer, sino de varias ya que no es posible que solamente una persona pueda hablar por millones.\n\n\nChristian 👨‍💻\n\n\nAmerica 🐱\nSi, ya que a mi parecer eso podría servir de inspiración para que más mujeres se animen a generar un cambio, creo que es importante el tener distintos puntos de vista y que entre sí puedan complementarse."
+  },
+  {
+    "objectID": "posts/Tres Mundos, Una Lucha/index.html#has-participado-en-alguna-forma-de-activismo-relacionada-con-la-igualdad-de-género-o-los-derechos-de-las-mujeres",
+    "href": "posts/Tres Mundos, Una Lucha/index.html#has-participado-en-alguna-forma-de-activismo-relacionada-con-la-igualdad-de-género-o-los-derechos-de-las-mujeres",
+    "title": "Tres Mundos, Una Lucha",
+    "section": "¿Has participado en alguna forma de activismo relacionada con la igualdad de género o los derechos de las mujeres?",
+    "text": "¿Has participado en alguna forma de activismo relacionada con la igualdad de género o los derechos de las mujeres?\n\nAna 🌚\nNo, hasta el momento no. Sin embargo, me gustaría hacerlo, no he tenido la oportunidad.\n\n\nChristian 👨‍💻\n\n\nAmerica 🐱\nSi, he asistido a unas cuantas conferencias y marchas al respecto e igual espero poder asistir a más"
+  },
+  {
+    "objectID": "posts/Tres Mundos, Una Lucha/index.html#cuál-crees-que-es-el-papel-del-activismo-en-la-lucha-por-la-igualdad-de-género",
+    "href": "posts/Tres Mundos, Una Lucha/index.html#cuál-crees-que-es-el-papel-del-activismo-en-la-lucha-por-la-igualdad-de-género",
+    "title": "Tres Mundos, Una Lucha",
+    "section": "¿Cuál crees que es el papel del activismo en la lucha por la igualdad de género?",
+    "text": "¿Cuál crees que es el papel del activismo en la lucha por la igualdad de género?\n\nAna 🌚\nVisibilizar y accionar respecto a las desigualdades que han ocurrido a lo largo de los años y no han recibido ni un poco de consecuencias. Pienso que para que un comportamiento sea modificado, debe tener consecuencias.\n\n\nChristian 👨‍💻\n\n\nAmerica 🐱\nA mi parecer es mostrar esta resistencia que se tiene ante las cuestiones que se tiene en cuanto la búsqueda de la igualdad y justicia pues a veces se deja pasar desapercibido y no ocurre nada al final"
+  },
+  {
+    "objectID": "posts/Tres Mundos, Una Lucha/index.html#cuáles-son-en-tu-opinión-las-medidas-o-políticas-públicas-necesarias-para-abordar-las-desigualdades-de-género-y-promover-los-derechos-de-las-mujeres",
+    "href": "posts/Tres Mundos, Una Lucha/index.html#cuáles-son-en-tu-opinión-las-medidas-o-políticas-públicas-necesarias-para-abordar-las-desigualdades-de-género-y-promover-los-derechos-de-las-mujeres",
+    "title": "Tres Mundos, Una Lucha",
+    "section": "¿Cuáles son, en tu opinión, las medidas o políticas públicas necesarias para abordar las desigualdades de género y promover los derechos de las mujeres?",
+    "text": "¿Cuáles son, en tu opinión, las medidas o políticas públicas necesarias para abordar las desigualdades de género y promover los derechos de las mujeres?\n\nAna 🌚\nDada la modernidad actual considero que el uso de las TICS pueden ser de gran ayuda ya que permiten la propagación de información de manera inmediata. Incluso considero que gracias a las mismas se ha visualizado la realidad de las desigualdades de género.\n\n\nChristian 👨‍💻\n\n\nAmerica 🐱\nMe parece interesante el uso de redes sociales para abordar este tema pues creo que es el medio correcto generacionalmente hablando para poder llegar a más personas y generar un cambio al respecto"
+  },
+  {
+    "objectID": "posts/Tres Mundos, Una Lucha/index.html#crees-que-se-necesita-una-educación-específica-sobre-género-en-las-escuelas-y-otros-ámbitos",
+    "href": "posts/Tres Mundos, Una Lucha/index.html#crees-que-se-necesita-una-educación-específica-sobre-género-en-las-escuelas-y-otros-ámbitos",
+    "title": "Tres Mundos, Una Lucha",
+    "section": "¿Crees que se necesita una educación específica sobre género en las escuelas y otros ámbitos?",
+    "text": "¿Crees que se necesita una educación específica sobre género en las escuelas y otros ámbitos?\n\nAna 🌚\nMás que una educación específica, considero que se requiere una nueva perspectiva de la educación que se ofrece actualmente. Si bien existen deficiencias en cuanto a diversas áreas, pienso que sería enriquecedor poder brindar una materia sobre movimientos sociales o políticas públicas.\n\n\nChristian 👨‍💻\n\n\nAmerica 🐱\nCreo que el abordar este tipo de temas es de suma importancia ya que se empezaria este cambio de perspectivas para generar impacto que bien no sera bien recibida del todo pero considero que es de esas cosas que se necesitan"
   }
 ]

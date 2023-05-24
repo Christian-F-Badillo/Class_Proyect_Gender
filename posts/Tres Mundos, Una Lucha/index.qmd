@@ -1,8 +1,180 @@
 ---
 title: "Tres Mundos, Una Lucha"
+toc: true
+toc-title: "Tabla de Contenido."
+toc-depth: 2
+toc-location: right
 author: "Ana Martínez, America Vazquez, Christian Badillo"
 date: "2023-05-24"
 categories: [feminismo, opinión, violencia de género]
 image: entrada_1_blog.jpg
 ---
 
+# Introducción.
+
+<div>
+<p> El feminismo y la teoría de género es un tema que ha traido consigo distintas opiniones y respuestas, por ello hemos creado esta estrada para dar a entender como se vive esta realidad desde tres puntos de vista distintos y con diferente experiencia y acercamiento acerca del feminismo y la teoría de género.</p>
+</div>
+
+# Violencia de Género.
+
+## ¿Consideras que la violencia de género es un problema grave en nuestra sociedad?
+
+### Ana 🌚
+
+Por supuesto, a pesar de que actualmente existe mucha visualización respecto a los sucesos, sigue siendo un tema mirado desde ojos que estigmatizan. 
+
+### Christian 👨‍💻
+
+
+### America 🐱
+
+Sin duda alguna, ya que es algo que aunque sea más hablado se sigue normalizando por lo cual estás conductas terminan aumentando e incluso se implementan con más intensidad.
+
+## ¿Cuáles crees que son las formas más comunes de violencia de género?
+
+### Ana 🌚
+
+* Verbalmente 
+* Psicológicamente 
+* Físicamente 
+
+### Christian 👨‍💻
+
+
+
+### America 🐱
+
+* Emocional
+* Física
+* Sexual
+* Doméstica
+
+
+# Igualdad de género y Derechos de las Mujeres.
+
+
+## ¿Crees que hombres y mujeres deberían tener los mismos derechos y oportunidades?
+
+### Ana 🌚
+
+Por supuesto, si bien no somos iguales, podemos tener los mismos derechos así como oportunidades. Lo comparo como toda persona, así como todos somos humanos, a pesar de que cada uno tenga una esencia, no deja de convertirlo en una persona. 
+
+### Christian 👨‍💻
+
+
+### America 🐱
+
+Si ya que creo que no importa tu género e incluso cómo se identifican pues creo que se estaría entrando en esta parte de “deshumanizar” pues los derechos y oportunidades son algo que podemos compartir perfectamente
+
+## ¿Cuáles son, en tu opinión, las áreas en las que se necesita más trabajo para lograr la igualdad de género?
+
+### Ana 🌚
+
+* Educación 
+* Reestructuración de pensamiento
+* Crianza
+* Pensamiento flexible 
+* Desestigmatización
+
+### Christian 👨‍💻
+
+
+
+### America 🐱
+
+* Infancias
+* Niveles educativos básicos
+* Hogares
+
+# Participación política y liderazgo
+
+
+## ¿Crees que es importante tener una representación equitativa de mujeres en los cargos políticos y de liderazgo?
+
+### Ana 🌚
+
+Por supuesto para tener opiniones desde perspectivas diversas y no solamente de una mujer, sino de varias ya que no es posible que solamente una persona pueda hablar por millones. 
+
+### Christian 👨‍💻
+
+
+### America 🐱
+
+Si, ya que a mi parecer eso podría servir de inspiración para que más mujeres se animen a generar un cambio, creo que es importante el tener distintos puntos de vista y que entre sí puedan complementarse.
+
+# Activismo y cambio social
+
+
+## ¿Has participado en alguna forma de activismo relacionada con la igualdad de género o los derechos de las mujeres?
+
+### Ana 🌚
+
+No, hasta el momento no. Sin embargo, me gustaría hacerlo, no he tenido la oportunidad.
+
+### Christian 👨‍💻
+
+
+### America 🐱
+
+Si, he asistido a unas cuantas conferencias y marchas al respecto e igual espero poder asistir a más 
+
+
+## ¿Cuál crees que es el papel del activismo en la lucha por la igualdad de género?
+
+### Ana 🌚
+
+Visibilizar y accionar respecto a las desigualdades que han ocurrido a lo largo de los años y no han recibido ni un poco de consecuencias. Pienso que para que un comportamiento sea modificado, debe tener consecuencias. 
+
+### Christian 👨‍💻
+
+
+### America 🐱
+
+A mi parecer es mostrar esta resistencia que se tiene ante las cuestiones que se tiene en  cuanto la búsqueda de la igualdad y justicia pues a veces se deja pasar desapercibido y no ocurre nada al final
+
+# Medidas de apoyo y políticas públicas.
+
+
+## ¿Cuáles son, en tu opinión, las medidas o políticas públicas necesarias para abordar las desigualdades de género y promover los derechos de las mujeres?
+
+### Ana 🌚
+
+Dada la modernidad actual considero que el uso de las TICS pueden ser de gran ayuda ya que permiten la propagación de información de manera inmediata. Incluso considero que gracias a las mismas se ha visualizado la realidad de las desigualdades de género.
+
+### Christian 👨‍💻
+
+
+### America 🐱
+
+Me parece interesante el uso de redes sociales para abordar este tema pues creo que es el medio correcto generacionalmente hablando para poder llegar a más personas y generar un cambio al respecto
+
+
+## ¿Crees que se necesita una educación específica sobre género en las escuelas y otros ámbitos?
+
+### Ana 🌚
+
+Más que una educación específica, considero que se requiere una nueva perspectiva de la educación que se ofrece actualmente. Si bien existen deficiencias en cuanto a diversas áreas, pienso que sería enriquecedor poder brindar una materia sobre movimientos sociales o políticas públicas. 
+
+### Christian 👨‍💻
+
+
+### America 🐱
+
+Creo que el abordar este tipo de temas es de suma importancia ya que se empezaria este cambio de perspectivas para generar impacto que bien no sera bien recibida del todo pero considero que es de esas cosas que se necesitan
+
+
+# Recomendación Individual.
+
+### Ana 🌚
+
+Tomado de Salles, 2014: La ciencia, dice y produce no solo objetos tangibles que afectan la vida de las personas, sino que también construye ideas y conceptos, en especial cuando investiga rasgos pertenecientes a grupos de personas. En tanto la estructura psicológica de los seres humanos se ve fuertemente influida por la cultura en la que viven, y en tanto la ciencia moldea las creencias sociales de las personas, los mismos estudios sobre diferencias sexuales pueden llegar a producir cambios en el sujeto que investigan. Para Fine (citado en  Salles, 2014)es indudable que los estereotipos de género afectan la percepción social y el comportamiento de las personas. Pero su impacto es negativo, dado que tienen el potencial de naturalizar y perpetuar inequidades (esta vez justificadas por factores biológicos), así como de mantener en posición de desventaja a las mujeres.
+
+Salles, A. (2014). Las diferencias sexuales y la discusión neuroética. *Debate Feminista, 49,* 94-115. [https://doi.org/10.1016/S0188-9478(16)30005-6](https://doi.org/10.1016/S0188-9478(16)30005-6)
+
+#### Sugerencia de Lectura.
+
+![Revista DEBATE FEMINISTA: Fundada en 1990 por Marta Lamas, desde 2015 formó parte del patrimonio de la Universidad Nacional Autónoma de México siendo editada por el Centro de Investigaciones y Estudios de Género.](recom_Ana_blog.jpeg)
+
+
+Es publicada físicamente y virtualmente (open access). 
