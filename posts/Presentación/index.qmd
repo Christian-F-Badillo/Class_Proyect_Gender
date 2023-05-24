@@ -1,8 +1,8 @@
 ---
-title: "Conocenos"
+title: "Conócenos"
 author: "Ana Martínez, America Vazquez, Christian Badillo"
 date: "2023-05-24"
-categories: [Conocenos, Acerca]
+categories: [Conócenos, Acerca]
 image: cry_guys.jpg
 ---
 <div>
@@ -20,7 +20,7 @@ image: cry_guys.jpg
 | ![](cris.jpeg){width="260" height="250"} | Hola soy Christian,      |                                               |
 |                                          | estudiante de último     |                                               |
 |                                          | año de psicología        |                                               |
-|                                          | y mis hobbits son la     |                                               |
+|                                          | y mis hobbies son la     |                                               |
 |                                          | programación,            |                                               |
 |                                          | aprender cosas nuevas,   |                                               |
 |                                          | me gusta escuchar        |                                               |
