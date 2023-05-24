@@ -1,0 +1,8 @@
+---
+title: "Tres Mundos, Una Lucha"
+author: "Ana Martínez, America Vazquez, Christian Badillo"
+date: "2023-05-24"
+categories: [feminismo, opinión, violencia de género]
+image: entrada_1_blog.jpg
+---
+

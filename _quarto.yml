@@ -7,11 +7,11 @@ website:
   title: "Feminism Times"
   navbar:
     right:
-      - about.qmd
+      - text: "Acerca" 
+        href: about.qmd
       - icon: github
         href: https://github.com/Christian-F-Badillo/Class_Proyect_Gender
-      - icon: twitter
-        href: https://twitter.com
+
   page-footer:
       border: true 
       center: "Hecho con [Quarto](https://quarto.org) y 💜 por Ana, America y Christian"
